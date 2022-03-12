@@ -1,0 +1,59 @@
+
+*{
+	font-family: DIN Condensed, American Typewriter;
+	font-size: 18pt;
+	color: #3e382bff;
+	text-align: center;
+
+}
+	body{
+		background-color: #ede0d4;
+		width: 960px;
+		margin: 0 auto;
+		border-style: double;
+}
+nav {
+	background-color: #be7482;
+	padding: 10px;
+	margin: 2px;
+
+}
+	
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color:#ffcbce;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color: #be7482;
+	padding: 10px;
+	margin:  10px;
+	width: 280px;
+	float: left;
+}
+.mart {
+	background-color: #ffcbce;
+}
+
+footer {
+	background-color: #ffcbce;
+	padding: 10px;
+	margin: 10px;
+}
+	H1
+	{
+	text-align: center;
+	color:#3e382bff;
+	font-family: american typewriter;
+}
